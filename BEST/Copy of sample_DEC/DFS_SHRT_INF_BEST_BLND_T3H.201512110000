@@ -1,0 +1,16 @@
+ guid. No. :    9
+ work date : 2015-12-11-18:00
+ wght file : /op/DFSM/SHRT_BEST/BLND/DABA/tmp/dfs_shrt_stn_blndW_tmp_12s_00utc.201301-201412
+---------------------------------------------------------------------------------------------
+ read  BiasC  int(h) weight  Guidance
+    1      0      0   0.398  DFS_SHRT_STN_RDPS_PMOS_T3H
+    1      0      0   0.620  DFS_SHRT_STN_ECMW_PMOS_T3H
+    1      1      0   0.441  DFS_SHRT_STN_RDPS_PMOS_T3H
+    1      1      0   0.615  DFS_SHRT_STN_ECMW_PMOS_T3H
+    1      1      0   0.337  DFS_SHRT_STN_RDPS_NPPM_T3H
+    1      1      0   0.343  DFS_SHRT_STN_ECMW_NPPM_T3H
+    1      1      0   0.366  DFS_SHRT_STN_GDPS_NPPM_T3H
+    1      1    -12   0.347  DFS_SHRT_STN_RDPS_PMOS_T3H
+    1      1    -12   0.505  DFS_SHRT_STN_ECMW_PMOS_T3H
+---------------------------------------------------------------------------------------------
+RDPS+GDPS+EPSG

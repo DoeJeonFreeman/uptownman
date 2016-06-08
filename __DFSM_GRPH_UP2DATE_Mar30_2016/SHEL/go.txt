@@ -1,0 +1,23 @@
+#!/bin/bash
+rdate=`date -d-9day +%Y%m%d`
+rdate=$rdate$1
+echo $rdate
+export OUT_PATH="/vn016/dfs/html/SHRT_R120"
+echo $rdate
+rm -f $OUT_PATH\/pop/*_$rdate.jpg
+rm -f $OUT_PATH\/pop/*_$rdate\_s.jpg
+rm -f $OUT_PATH\/pty/*_$rdate.jpg
+rm -f $OUT_PATH\/pty/*_$rdate\_s.jpg
+rm -f $OUT_PATH\/sky/*_$rdate.jpg
+rm -f $OUT_PATH\/sky/*_$rdate\_s.jpg
+rm -f $OUT_PATH\/uvw/*_$rdate.jpg
+rm -f $OUT_PATH\/uvw/*_$rdate\_s.jpg
+rm -f $OUT_PATH\/rn3/*_$rdate.jpg
+rm -f $OUT_PATH\/rn3/*_$rdate.jpg
+rm -f $OUT_PATH\/sn3/*_$rdate.jpg
+rm -f $OUT_PATH\/sn3/*_$rdate\_s.jpg
+rm -f $OUT_PATH\/tmp/*_$rdate.jpg
+rm -f $OUT_PATH\/tmp/*_$rdate\_s.jpg
+rm -f $OUT_PATH\/reh/*_$rdate.jpg
+rm -f $OUT_PATH\/reh/*_$rdate\_s.jpg
+ls $OUT_PATH\/reh/*_$rdate.jpg

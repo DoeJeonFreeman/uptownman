@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<stationInfo>
+
+		<regionGroup grCode="9901" grName="알펜시아" mainStn="스키점프">
+		<station stnCode="2572" stnName="스키점프125-출발" stn_edit="105" lon="128.68" lat="37.66" gx="88.96" gy="129.43" alti="884"/>
+		<station stnCode="2555" stnName="스키점프125-점프" stn_edit="105" lon="128.69" lat="37.67" gx="89.11" gy="129.61" alti="859"/>
+		<station stnCode="2573" stnName="스키점프98-출발" stn_edit="105" lon="128.68" lat="37.66" gx="88.97" gy="129.43" alti="866"/>
+		<station stnCode="2574" stnName="스키점프98점프" stn_edit="105" lon="128.68" lat="37.66" gx="88.98" gy="129.44" alti="831"/>
+		<station stnCode="2575" stnName="스키점프-착지" stn_edit="105" lon="128.68" lat="37.66" gx="88.99" gy="129.45" alti="793"/>
+		<station stnCode="879" stnName="스키점프" stn_edit="105" lon="127.68" lat="37.66" gx="88.97" gy="129.42" alti="852"/>
+	</regionGroup>
+	<regionGroup grCode="9902" grName="알펜시아" mainStn="슬라이딩">
+		<station stnCode="2553" stnName="슬라이딩-출발" stn_edit="105" lon="128.67" lat="37.65" gx="88.86" gy="129.19" alti="959"/>
+		<station stnCode="2576" stnName="슬라이딩-중간" stn_edit="105" lon="128.68" lat="37.65" gx="88.92" gy="129.24" alti="875"/>
+		<station stnCode="2554" stnName="슬라이딩-도착" stn_edit="105" lon="128.67" lat="37.65" gx="88.91" gy="129.31" alti="784"/>
+		<station stnCode="2557" stnName="바이애슬론-출발" stn_edit="105" lon="128.69" lat="37.67" gx="89.14" gy="129.73" alti="756"/>
+		<station stnCode="2558" stnName="바이애슬론-중간" stn_edit="105" lon="128.69" lat="37.67" gx="89.07" gy="129.53" alti="776"/>
+		<station stnCode="2577" stnName="크로스컨트리-출발" stn_edit="105" lon="128.68" lat="37.66" gx="89.06" gy="129.49" alti="768"/>
+		<station stnCode="2559" stnName="크로스컨트리-중간" stn_edit="105" lon="128.69" lat="37.66" gx="89.13" gy="129.41" alti="782"/>
+	</regionGroup>
+	<regionGroup grCode="9903" grName="용평" mainStn="대회전">
+		<station stnCode="2560" stnName="알파인대회전-출발" stn_edit="105" lon="128.68" lat="37.62" gx="89.00" gy="128.56" alti="1417"/> 
+		<station stnCode="2578" stnName="알파인대회전-중간1" stn_edit="105" lon="128.67" lat="37.62" gx="88.82" gy="128.44" alti="1302"/> 
+		<station stnCode="2579" stnName="알파인대회전-중간2" stn_edit="105" lon="128.67" lat="37.60" gx="88.84" gy="128.13" alti="1185"/> 
+		<station stnCode="2561" stnName="알파인대회전-도착" stn_edit="105" lon="128.66" lat="37.62" gx="88.75" gy="128.56" alti="976"/> 
+		<station stnCode="318" stnName="용평" stn_edit="105" lon="128.67" lat="37.64" gx="88.83" gy="129.04" alti="770"/> 
+	</regionGroup>
+	<regionGroup grCode="9904" grName="보광" mainStn="크로스">
+		<station stnCode="2580" stnName="크로스-출발" stn_edit="105" lon="128.31" lat="37.58" gx="82.73" gy="127.42" alti="903"/> 
+		<station stnCode="2581" stnName="크로스-도착" stn_edit="105" lon="128.32" lat="37.58" gx="82.89" gy="127.57" alti="653"/> 
+		<station stnCode="2588" stnName="슬로프스타일-출발" stn_edit="105" lon="128.32" lat="37.58" gx="82.92" gy="127.35" alti="867"/>
+		<station stnCode="2583" stnName="슬로프스타일-도착" stn_edit="105" lon="128.33" lat="37.58" gx="82.95" gy="127.47" alti="704"/>
+		<station stnCode="2582" stnName="모글-출발" stn_edit="105" lon="128.32" lat="37.58" gx="82.92" gy="127.44" alti="791"/>
+		<station stnCode="660" stnName="면온" stn_edit="105" lon="128.38" lat="37.56" gx="83.86" gy="127.11" alti="532"/>
+	</regionGroup>
+	<regionGroup grCode="9905" grName="정선" mainStn="활강">
+		<station stnCode="2584" stnName="알파인활강-출발" stn_edit="105" lon="128.60" lat="37.45" gx="87.75" gy="124.71" alti="1370"/>
+		<station stnCode="2586" stnName="알파인활강-중간" stn_edit="105" lon="128.60" lat="37.46" gx="87.79" gy="124.97" alti="927"/>
+		<station stnCode="2587" stnName="알파인활강-도착" stn_edit="105" lon="128.60" lat="37.46" gx="87.80" gy="125.12" alti="665"/>
+		<station stnCode="2585" stnName="알파인슈퍼대회전-출발" stn_edit="105" lon="128.60" lat="37.45" gx="87.80" gy="125.12" alti="1220"/>
+		<station stnCode="2571" stnName="정선경기장하부" stn_edit="105" lon="128.61" lat="37.47" gx="87.99" gy="125.32" alti="373"/>		
+	</regionGroup>
+
+
+	<!--47105-->
+	<!-- 00 -->
+	<regionGroup grCode="3501" grName="강릉" mainStn="설악산">
+		<station stnCode="20141" stnName="태백산-정상" stn_edit="105" lon="128.9158333" lat="37.09638889" 	 gx="93.59780733" gy="117.3619285" alti="1567"/> 
+		<station stnCode="40231" stnName="두타산-정상" stn_edit="105" lon="129.0038889" lat="37.42638889"	 gx="94.85698632" gy="124.5610242" alti="1353"/> 
+		<station stnCode="40211" stnName="가리왕산-정상" stn_edit="105" lon="128.5630556" lat="37.46222222" gx="87.22474664" gy="125.0718439" alti="1561"/> 
+		<station stnCode="10121" stnName="설악산-정상" stn_edit="090" lon="128.4652222" lat="38.11916944"	 gx="85.09962154" gy="139.2249967" alti="1708"/> 
+		<station stnCode="10122" stnName="설악산-권금성" stn_edit="090" lon="128.4855528" lat="38.1609" gx="85.41869935" gy="140.137479" alti="781"/>
+	</regionGroup>
+	<!-- 01 -->
+	<regionGroup grCode="3502" grName="강릉" mainStn="오대산">
+		<station stnCode="40291" stnName="성인봉-정상" stn_edit="115" lon="130.8677778" lat="37.49805556" gx="126.9074878" gy="127.6912994" alti="984"/> 
+		<station stnCode="40171" stnName="광덕산-정상" stn_edit="095" lon="127.9305556" lat="38.11527778" gx="75.97294215" gy="138.8902054" alti="1046"/> 
+		<station stnCode="10131" stnName="오대산-정상" stn_edit="100" lon="128.5458333" lat="37.79166667" gx="86.70099234" gy="132.1886553" alti="1563"/> 
+		<station stnCode="10132" stnName="오대산-탐방센터" stn_edit="100" lon="128.6041667" lat="37.7" gx="87.76648018" gy="130.2385466" alti="612"/> 
+		<!--2015.04.15. 위경도 및 동네예보 격자점 수정-->
+		<station stnCode="40221" stnName="청옥산-정상" stn_edit="100" lon="128.508366666667" lat="37.4105388888889" gx="86.31647" gy="123.9235" alti="1256"/>
+	</regionGroup>
+	<!-- 02 -->
+	<regionGroup grCode="3503" grName="강릉" mainStn="치악산">
+		<station stnCode="30131" stnName="아미산-정상" stn_edit="101" lon="128.2272222" lat="37.77222222" gx="81.24502585" gy="131.6050985" alti="961"/> 
+		<station stnCode="40181" stnName="삼악산-정상" stn_edit="101" lon="127.6669444" lat="37.83722222" gx="71.59649198" gy="132.7770128" alti="654"/> 
+		<station stnCode="40191" stnName="팔봉산-정상" stn_edit="101" lon="127.6961111" lat="37.69583333" gx="72.16157732" gy="129.7291519" alti="302"/> 
+		<station stnCode="10141" stnName="치악산-정상" stn_edit="114" lon="128.0556111" lat="37.36516667" gx="78.52505937" gy="122.7185012" alti="1288"/> 
+		<station stnCode="10142" stnName="치악산-구룡탐방센터" stn_edit="114" lon="128.0503889" lat="37.41413889" gx="78.40767386" gy="123.7762495" alti="265"/>
+		<station stnCode="40201" stnName="태기산-정상" stn_edit="114" lon="128.2855556" lat="37.60194444" gx="82.35161492" gy="127.9501234" alti="1261"/>
+	</regionGroup>
+	
+	<!--47108-->
+	<!-- 03 -->
+	<regionGroup grCode="0001" grName="서울" mainStn="북한산">
+		<station stnCode="10111" stnName="북한산-정상" stn_edit="108" lon="126.4305556" lat="37.65856389" gx="59.81942919" gy="128.7164263" alti="759"/> 
+		<station stnCode="10112" stnName="북한산-관리사무소" stn_edit="108" lon="126.9945556" lat="37.62134722" gx="60.1204569" gy="127.9146465" alti="172"/> 
+		<station stnCode="40111" stnName="도봉산-정상" stn_edit="108" lon="127.0158333" lat="37.69916667" gx="60.46534777" gy="129.6031711" alti="739.5"/> 
+		<station stnCode="20131" stnName="수리산-정상" stn_edit="119" lon="126.9136111" lat="37.37305556" gx="58.78846472" gy="122.523317" alti="489"/> 
+		<station stnCode="40151" stnName="청계산-정상" stn_edit="119" lon="127.0416667" lat="37.41527778" gx="60.98943047" gy="123.4645049" alti="618"/> 
+	</regionGroup>
+	<!-- 04 -->
+	<regionGroup grCode="0002" grName="서울" mainStn="마니산">
+		<station stnCode="40161" stnName="마니산-정상" stn_edit="112" lon="126.4305556" lat="37.61527778" gx="50.41252199" gy="127.6968771" alti="469.4"/> 
+		<station stnCode="20111" stnName="연인산-정상" stn_edit="112" lon="127.4144444" lat="37.89833333" gx="67.24198256" gy="134.0153513" alti="1068"/> 
+		<station stnCode="30111" stnName="천마산-정상" stn_edit="112" lon="127.2747222" lat="37.68111111" gx="64.92233947" gy="129.2761866" alti="812"/> 
+		<station stnCode="30121" stnName="명지산-정상" stn_edit="112" lon="127.4313889" lat="37.94138889" gx="67.51571242" gy="134.951607" alti="1267"/> 
+		<station stnCode="40121" stnName="소요산-정상" stn_edit="112" lon="127.0933333" lat="37.94444444" gx="61.72527297" gy="134.9263892" alti="587"/>
+		<station stnCode="40131" stnName="운악산-정상" stn_edit="112" lon="127.3247222" lat="37.87833333" gx="65.71154823" gy="133.5564986" alti="561"/>
+		<station stnCode="20121" stnName="남한산성-정상" stn_edit="112" lon="127.1897222" lat="37.45777778" gx="63.53247685" gy="124.4202066" alti="507"/>
+		<station stnCode="40141" stnName="용문산-정상" stn_edit="112" lon="127.5472222" lat="37.56583333" gx="69.65640443" gy="126.8643666" alti="1157"/>
+	</regionGroup>
+	
+	<!--47133-->
+	<!-- 05 -->
+	<regionGroup grCode="2301" grName="대전" mainStn="계룡산">
+		<station stnCode="10151" stnName="계룡산-정상" stn_edit="133" lon="127.2041083" lat="36.34588056" gx="64.14324306" gy="100.323387" alti="845"/> 
+		<station stnCode="10152" stnName="계룡산-갑사탐방센터" stn_edit="133" lon="127.182825" lat="36.36786667" gx="63.76250115" gy="100.7949891" alti="145"/> 
+		<station stnCode="40241" stnName="광덕산천안-정상" stn_edit="232" lon="127.0275" lat="36.68777778" gx="60.94711275" gy="107.6977844" alti="699"/> 
+		<station stnCode="20151" stnName="칠갑산-정상" stn_edit="235" lon="126.8475" lat="36.42194444" gx="57.86427439" gy="101.893975" alti="561"/> 
+	</regionGroup>
+	<!-- 06 -->
+	<regionGroup grCode="2302" grName="대전" mainStn="월악산">
+		<station stnCode="10171" stnName="월악산-정상" stn_edit="131" lon="128.1057361" lat="36.88611389" gx="79.66408891" gy="112.365369" alti="1094"/> 
+		<station stnCode="10172" stnName="월악산-탐방센터" stn_edit="131" lon="128.0786583" lat="36.88701944" gx="79.19221996" gy="112.372672" alti="162"/> 
+		<station stnCode="10161" stnName="속리산-정상" stn_edit="131" lon="127.8708556" lat="36.54328611" gx="75.7489771" gy="104.8309605" alti="1058"/> 
+		<station stnCode="10162" stnName="속리산-탐방센터" stn_edit="131" lon="127.8416111" lat="36.53237222" gx="75.24259505" gy="104.5823649" alti="585"/> 
+		<station stnCode="40251" stnName="민주지산-정상" stn_edit="131" lon="127.8488889" lat="36.04" gx="75.6168274" gy="93.89892249" alti="1242"/> 
+	</regionGroup>
+
+	
+	<!--47156-->
+	<!-- 07 -->
+	<regionGroup grCode="1301" grName="광주" mainStn="무등산">
+		<station stnCode="10281" stnName="무등산-정상" stn_edit="156" lon="127.0089" lat="35.124" gx="61.05048902" gy="73.71342898" alti="1187"/> 
+		<station stnCode="10282" stnName="무등산-관리사무소" stn_edit="156" lon="126.9561" lat="35.1341" gx="60.10325021" gy="73.92176266" alti="118"/> 
+		<station stnCode="10181" stnName="월출산-정상" stn_edit="165" lon="126.7008389" lat="34.76250556" gx="55.60800863" gy="65.77863584" alti="593"/> 
+		<station stnCode="10182" stnName="월출산-관리사무소" stn_edit="165" lon="126.7219444" lat="34.77527778" gx="55.98517325" gy="66.06041923" alti="84"/> 
+		<station stnCode="20221" stnName="팔영산-정상" stn_edit="168" lon="127.4352778" lat="34.61694444" gx="68.87632033" gy="62.78159575" alti="608"/>
+	</regionGroup>
+	<!-- 08 -->
+	<regionGroup grCode="1302" grName="광주" mainStn="두륜산">
+		<station stnCode="20231" stnName="천관산-정상" stn_edit="170" lon="126.5769444" lat="34.5175" gx="53.41770719" gy="60.41810623" alti="723"/> 
+		<station stnCode="20241" stnName="두륜산-정상" stn_edit="170" lon="126.6161111" lat="34.48916667" gx="54.12967153" gy="59.80527407" alti="703"/> 
+		<station stnCode="40281" stnName="첨찰산-정상" stn_edit="170" lon="126.3213889" lat="34.47638889" gx="48.80685544" gy="59.49532675" alti="485"/> 
+		<station stnCode="20211" stnName="조계산-정상" stn_edit="174" lon="127.3133333" lat="35.00166667" gx="66.54045932" gy="71.12829411" alti="884"/> 
+		<station stnCode="40271" stnName="백운산-정상" stn_edit="174" lon="127.6216667" lat="35.10638889" gx="72.02020739" gy="73.51009442" alti="1215"/>
+		<station stnCode="10192" stnName="지리산-노고단대피소" stn_edit="174" lon="127.5260167" lat="35.29584722" gx="70.2301152" gy="77.6005989" alti="1350"/>
+	</regionGroup>
+	<!-- 09 -->
+	<regionGroup grCode="1303" grName="광주" mainStn="덕유산">
+		<station stnCode="10211" stnName="덕유산-정상" stn_edit="146" lon="127.7458389" lat="35.85906667" gx="73.88491101" gy="89.92768249" alti="1614"/> 
+		<station stnCode="10212" stnName="덕유산-삿갓골대피소" stn_edit="146" lon="127.7034333" lat="35.79025833" gx="73.16666503" gy="88.41629024" alti="1267"/> 
+		<station stnCode="20161" stnName="대둔산-정상" stn_edit="146" lon="127.3605556" lat="36.11638889" gx="66.97476855" gy="95.38524576" alti="878"/> 
+		<station stnCode="20171" stnName="마이산-정상" stn_edit="146" lon="127.415" lat="35.76027778" gx="68.07080847" gy="87.66518763" alti="686"/> 
+		<station stnCode="20181" stnName="모악산-정상" stn_edit="146" lon="127.0852778" lat="35.72861111" gx="62.23857247" gy="86.88559551" alti="793"/>
+		<station stnCode="10201" stnName="내장산-정상" stn_edit="146" lon="126.8833056" lat="35.48339167" gx="58.71723967" gy="81.50888129" alti="763"/>
+		<station stnCode="10202" stnName="내장산-탐방안내소" stn_edit="146" lon="126.9278917" lat="35.49335833" gx="59.50804196" gy="81.73466399" alti="150"/> 
+		<station stnCode="30141" stnName="장안산-정상" stn_edit="146" lon="127.5952778" lat="35.62861111" gx="71.32159241" gy="84.8630053" alti="1237"/> 
+		<station stnCode="30151" stnName="강천산-정상" stn_edit="146" lon="127.0477778" lat="35.40333333" gx="61.66644439" gy="79.80245529" alti="584"/> 
+		<station stnCode="40262" stnName="지리산-뱀사골" stn_edit="146" lon="127.5777778" lat="35.37138889" gx="71.12121908" gy="79.26227763" alti="492"/>
+		<station stnCode="20191" stnName="선운산-정상" stn_edit="172" lon="126.5769444" lat="35.5175" gx="53.26072486" gy="82.20114393" alti="336"/>
+	</regionGroup>
+
+	<!--47159-->
+	<!-- 10 -->
+	<regionGroup grCode="0101" grName="부산" mainStn="가지산">
+		<station stnCode="40351" stnName="장산-정상" stn_edit="159" lon="129.1444444" lat="35.19416667" gx="99.18509407" gy="76.23106945" alti="634"/> 
+		<station stnCode="40361" stnName="금정산-정상" stn_edit="159" lon="129.0511111" lat="35.28" gx="97.44703364" gy="78.03376572" alti="802"/> 
+		<station stnCode="20251" stnName="가지산-정상" stn_edit="152" lon="129.0041667" lat="35.62138889" gx="96.33105495" gy="85.42449093" alti="1240"/> 
+		<station stnCode="30171" stnName="신불산-정상" stn_edit="152" lon="129.0541667" lat="35.53888889" gx="97.28668128" gy="83.66505146" alti="1209"/> 
+		<station stnCode="40321" stnName="천태산-정상" stn_edit="152" lon="128.9030556" lat="35.42027778" gx="94.69549529" gy="80.98638673" alti="631"/>
+	</regionGroup>
+	<!-- 11 -->
+	<regionGroup grCode="0102" grName="부산" mainStn="화왕산">
+		<station stnCode="30251" stnName="호구산-정상" stn_edit="162" lon="127.9052778" lat="34.79111111" gx="77.25808558" gy="66.75467062" alti="618"/> 
+		<station stnCode="20301" stnName="연화산-정상" stn_edit="155" lon="128.2625" lat="35.06777778" gx="83.50925051" gy="72.94769841" alti="528"/> 
+		<station stnCode="30191" stnName="화왕산-정상" stn_edit="155" lon="128.5602778" lat="35.53666667" gx="88.51281643" gy="83.30890705" alti="756"/> 
+		<station stnCode="30231" stnName="방어산-정상" stn_edit="155" lon="128.2927778" lat="35.25333333" gx="83.93552084" gy="77.00185487" alti="530"/> 
+		<station stnCode="40341" stnName="무학산-정상" stn_edit="155" lon="128.535" lat="35.20972222" gx="88.2888655" gy="76.18329972" alti="761"/>
+	</regionGroup>
+	<!-- 12 -->
+	<regionGroup grCode="0103" grName="부산" mainStn="지리산">
+		<station stnCode="10231" stnName="지리산-정상" stn_edit="192" lon="127.7333861" lat="35.34213889" gx="73.90804105" gy="78.68322191" alti="1915"/> 
+		<station stnCode="10232" stnName="지리산-치밭목대피소" stn_edit="192" lon="127.7506222" lat="35.34801389" gx="74.21253388" gy="78.81773857" alti="1431"/> 
+		<station stnCode="30221" stnName="웅석봉-정상" stn_edit="192" lon="127.8769444" lat="35.36361111" gx="76.4564262" gy="79.20810929" alti="1099"/> 
+		<station stnCode="30241" stnName="봉명산-정상" stn_edit="192" lon="127.9036111" lat="35.0875" gx="77.07458624" gy="73.20992383" alti="400"/> 
+		<station stnCode="40331" stnName="대성산-정상" stn_edit="192" lon="127.9427778" lat="35.38555556" gx="77.6180889" gy="79.71350936" alti="599"/>
+	</regionGroup>
+	<!-- 13 -->
+	<regionGroup grCode="0104" grName="부산" mainStn="소백산">
+		<station stnCode="20291" stnName="팔공산-정상" stn_edit="143" lon="128.695" lat="36.01638889" gx="90.555848" gy="93.80985982" alti="1193"/> 
+		<station stnCode="30161" stnName="비슬산-정상" stn_edit="143" lon="128.525" lat="35.71472222" gx="87.7638052" gy="87.15920138" alti="1084"/> 
+		<station stnCode="30181" stnName="운문산-정상" stn_edit="143" lon="128.9591667" lat="35.61555556" gx="95.5372532" gy="85.26796668" alti="1188"/> 
+		<station stnCode="10241" stnName="소백산-정상" stn_edit="143" lon="128.4568167" lat="36.93353889" gx="85.74361498" gy="113.5670932" alti="1439"/> 
+		<station stnCode="10242" stnName="소백산-관리사무소" stn_edit="143" lon="128.4273722" lat="36.96014444" gx="85.21401645" gy="114.1278774" alti="439"/>
+		<station stnCode="20271" stnName="문경새재-정상" stn_edit="143" lon="128.0577778" lat="36.18277778" gx="79.22143379" gy="97.08882528" alti="730"/>
+		<station stnCode="20281" stnName="금오산-정상" stn_edit="143" lon="128.18" lat="36.05194444" gx="81.44966338" gy="94.30526808" alti="977"/>
+	</regionGroup>
+	<!-- 14 -->
+	<regionGroup grCode="0105" grName="부산" mainStn="가야산">
+		<station stnCode="20261" stnName="청량산-정상" stn_edit="130" lon="128.9083333" lat="36.79416667" gx="93.70563682" gy="110.8108154" alti="870"/> 
+		<station stnCode="40301" stnName="백암산-정상" stn_edit="130" lon="129.3052778" lat="36.71388889" gx="100.6943605" gy="109.3400431" alti="1004"/> 
+		<station stnCode="10221" stnName="주왕산-정상" stn_edit="136" lon="129.1955083" lat="36.3992" gx="99.05177739" gy="102.4404662" alti="721"/> 
+		<station stnCode="10222" stnName="주왕산-탐방안내소" stn_edit="136" lon="129.1421083" lat="36.39407778" gx="98.11994571" gy="102.2923062" alti="276"/>
+		<station stnCode="40311" stnName="토함산-정상" stn_edit="138" lon="129.3725" lat="35.75583333" gx="102.7430782" gy="88.60553942" alti="745"/>		
+		<station stnCode="10251" stnName="가야산-정상" stn_edit="284" lon="128.120825" lat="35.823125" gx="80.53791119" gy="89.3069812" alti="1430"/>
+		<station stnCode="10252" stnName="가야산-탐방안내소" stn_edit="284" lon="128.1248417" lat="35.77574167" gx="80.63632175" gy="88.2792696" alti="330"/>
+		<station stnCode="30201" stnName="기백산-정상" stn_edit="284" lon="127.7819444" lat="35.70666667" gx="74.5972646" gy="86.62975001" alti="1331"/>
+		<station stnCode="30211" stnName="황매산-정상" stn_edit="284" lon="127.9741667" lat="35.49555556" gx="78.11827948" gy="82.11980937" alti="1108"/>
+	</regionGroup>	
+
+	<!--47184-->
+	<!-- 15 -->
+	<regionGroup grCode="4401" grName="제주" mainStn="한라산">
+		<station stnCode="10261" stnName="한라산-정상" stn_edit="184" lon="126.5355806" lat="33.36098333" gx="52.83990652" gy="35.13897241" alti="1950"/> 
+		<station stnCode="10262" stnName="한라산-성판악" stn_edit="184" lon="126.6527722" lat="33.38489444" gx="54.98868689" gy="35.67843004" alti="750"/> 
+		<station stnCode="10272" stnName="한라산-어리목" stn_edit="184" lon="126.4855056" lat="33.39225278" gx="51.91576838" gy="35.81767902" alti="959"/> 
+	</regionGroup>
+
+	<regionGroup grCode="8801" grName="고갯길" mainStn="북부">
+		<station stnCode="40595" stnName="진부령" stn_edit="090" lon="128.3725" lat="38.2567" gx="81" gy="140" alti="520"/>
+		<station stnCode="40596" stnName="한계령" stn_edit="090" lon="128.4518" lat="38.0715" gx="84.90204" gy="138.1878" alti="1004"/>
+		<station stnCode="40983" stnName="광치령" stn_edit="090" lon="128.07" lat="38.13" gx="78.34584" gy="139.2679" alti="527"/>
+	</regionGroup>
+
+	<regionGroup grCode="8802" grName="고갯길" mainStn="중부">
+		<station stnCode="40986" stnName="고사리재" stn_edit="105" lon="128.25" lat="37.84" gx="81.59485" gy="133.0818" alti="233"/>
+		<station stnCode="40987" stnName="진고개" stn_edit="105" lon="128.61" lat="37.76" gx="87.8244" gy="131.5394" alti="960"/>
+		<station stnCode="40992" stnName="운두령" stn_edit="105" lon="128.43" lat="37.7" gx="84.77345" gy="130.1444" alti="1089"/>
+		<station stnCode="40985" stnName="태기산" stn_edit="105" lon="128.29" lat="37.59" gx="82.43551" gy="127.6939" alti="845"/>		
+		<station stnCode="40984" stnName="황재" stn_edit="105" lon="128.15" lat="37.48" gx="80.08914" gy="125.2468" alti="528"/>
+		<station stnCode="40991" stnName="문재" stn_edit="105" lon="128.29" lat="37.43" gx="82.53457" gy="124.2317" alti="800"/>
+		<station stnCode="40998" stnName="너그니재" stn_edit="105" lon="128.82" lat="37.5" gx="91.62769" gy="126.0382" alti="760"/>
+		<station stnCode="40497" stnName="삽당령" stn_edit="105" lon="128.85145" lat="37.57516" gx="92.11185" gy="127.6833" alti="680"/> 
+	</regionGroup>
+
+	<regionGroup grCode="8803" grName="고갯길" mainStn="남부">
+		<station stnCode="40999" stnName="백복령" stn_edit="106" lon="128.97" lat="37.53" gx="94.18903" gy="126.7807" alti="780"/>
+		<station stnCode="40995" stnName="비행기재" stn_edit="106" lon="128.57" lat="37.35" gx="87.42252" gy="122.647" alti="650"/>
+		<station stnCode="40994" stnName="멧둔재" stn_edit="106" lon="128.45" lat="37.33" gx="85.36223" gy="122.1491" alti="660"/>
+		<station stnCode="40993" stnName="원동재" stn_edit="106" lon="128.4" lat="37.28" gx="84.53041" gy="121.0405" alti="406"/>
+		<station stnCode="40996" stnName="느릅재" stn_edit="106" lon="128.3" lat="37.18" gx="82.86269" gy="118.8245" alti="300"/>
+		<station stnCode="40989" stnName="마차재" stn_edit="106" lon="128.67" lat="37.27" gx="89.20816" gy="120.972" alti="720"/>
+		<station stnCode="40997" stnName="두문동재" stn_edit="106" lon="128.9" lat="37.2" gx="93.24188" gy="119.5952" alti="1280"/>
+		<station stnCode="40990" stnName="통리재" stn_edit="106" lon="129.04" lat="37.17" gx="95.69089" gy="119.0358" alti="720"/>
+		<station stnCode="40988" stnName="어평재" stn_edit="106" lon="128.89" lat="37.12" gx="93.13126" gy="117.8569" alti="940"/>
+	</regionGroup>
+
+</stationInfo>

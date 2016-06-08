@@ -1,0 +1,15 @@
+ guid. No. :    7
+ work date : 2016-03-22-18:29
+ __parserWillSkipThisLineHaha_ : /op/DFSM/SHRT_BEST/BLND/DABA/reh/dfs_shrt_stn_blndW_reh_03s_00utc.201301-201512
+ wght file : BEST/20160322_Alter4LocalTest/blndW_reh_03s_00utc.201301-201512
+---------------------------------------------------------------------------------------------
+ read  BiasC  int(h) weight  Guidance
+    1      1      0   0.935  DFS_SHRT_STN_RDPS_PMOS_REH
+    1      1      0   1.577  DFS_SHRT_STN_ECMW_PMOS_REH
+    1      1      0   0.671  DFS_SHRT_STN_RDPS_NPPM_REH
+    1      1      0   0.722  DFS_SHRT_STN_ECMW_NPPM_REH
+    1      1      0   0.699  DFS_SHRT_STN_GDPS_NPPM_REH
+    1      1    -12   0.682  DFS_SHRT_STN_RDPS_PMOS_REH
+    1      1    -12   1.153  DFS_SHRT_STN_ECMW_PMOS_REH
+---------------------------------------------------------------------------------------------
+ work modl : RDPS+ECMW+GDPS

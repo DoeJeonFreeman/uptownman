@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<stationInfo>
+
+	<regionGroup grCode="0" grName="수도권청(서울)">
+		<station stnCode="47108" stnName="서울"/> 
+		<station stnCode="47112" stnName="인천"/> 
+		<station stnCode="47119" stnName="수원"/>
+		<station stnCode="47099" stnName="파주"/> 
+		<station stnCode="47098" stnName="동두천"/> 
+		<station stnCode="47203" stnName="이천"/>
+	</regionGroup>
+	
+	<regionGroup grCode="1" grName="부산청(부산)">
+		<station stnCode="47159" stnName="부산"/> 
+		<station stnCode="47152" stnName="울산"/> 
+		<station stnCode="47155" stnName="창원"/> 
+		<station stnCode="47162" stnName="통영"/> 
+		<station stnCode="47192" stnName="진주"/>
+		<station stnCode="47284" stnName="거창"/>
+	</regionGroup>
+	
+	<regionGroup grCode="6" grName="부산청(대구)">
+		<station stnCode="47143" stnName="대구"/> 
+		<station stnCode="47138" stnName="포항"/> 
+		<station stnCode="47136" stnName="안동"/> 
+		<station stnCode="47130" stnName="울진"/> 
+		<station stnCode="47137" stnName="상주"/>
+		<station stnCode="47279" stnName="구미"/>
+		<station stnCode="47115" stnName="울릉도"/>
+	</regionGroup>
+	
+	<regionGroup grCode="13" grName="광주청(광주)">
+		<station stnCode="47156" stnName="광주"/> 
+		<station stnCode="47165" stnName="목포"/> 
+		<station stnCode="47168" stnName="여수"/> 
+		<station stnCode="47170" stnName="완도"/> 
+		<station stnCode="47174" stnName="순천"/>
+		<station stnCode="47268" stnName="진도군"/>
+	</regionGroup>
+	
+	<regionGroup grCode="18" grName="광주청(전주)">
+		<station stnCode="47146" stnName="전주"/> 
+		<station stnCode="47140" stnName="군산"/> 
+		<station stnCode="47172" stnName="고창"/> 
+		<station stnCode="47245" stnName="정읍"/> 
+		<station stnCode="47247" stnName="남원"/>
+	</regionGroup>
+	
+	<regionGroup grCode="23" grName="대전청(대전)">
+		<station stnCode="47133" stnName="대전"/> 
+		<station stnCode="887" stnName="세종시"/> 				
+		<station stnCode="47129" stnName="서산"/>
+		<station stnCode="47177" stnName="홍성(예)"/> 
+		<station stnCode="47232" stnName="천안"/> 
+		<station stnCode="47235" stnName="보령"/>  
+	</regionGroup>
+	
+	<regionGroup grCode="32" grName="대전청(청주)">
+		<station stnCode="47131" stnName="청주"/> 
+		<station stnCode="47127" stnName="충주"/> 
+		<station stnCode="47135" stnName="추풍령"/> 
+	</regionGroup>
+		
+	<regionGroup grCode="41" grName="강원청(춘천)">
+		<station stnCode="47101" stnName="춘천"/> 
+		<station stnCode="47114" stnName="원주"/> 
+		<station stnCode="47095" stnName="철원"/> 
+		<station stnCode="47121" stnName="영월"/> 
+	</regionGroup>
+	
+	<regionGroup grCode="35" grName="강원청(강릉)">
+		<station stnCode="47104" stnName="북강릉"/> 
+		<station stnCode="47090" stnName="속초"/> 
+		<station stnCode="47100" stnName="대관령"/> 
+		<station stnCode="47106" stnName="동해"/> 
+	</regionGroup>
+	
+	<regionGroup grCode="44" grName="제주청(제주)">
+		<station stnCode="47184" stnName="제주"/> 
+		<station stnCode="47189" stnName="서귀포"/> 
+		<station stnCode="47185" stnName="고산"/> 
+		<station stnCode="47188" stnName="성산"/> 
+	</regionGroup>
+
+	<regionGroup grCode="46" grName="북한(평양)">
+		<station stnCode="47058" stnName="평양"/> 
+		<station stnCode="47035" stnName="신의주"/> 
+		<station stnCode="47070" stnName="개성"/> 
+		<station stnCode="47041" stnName="함흥"/> 
+		<station stnCode="47008" stnName="청진"/>
+	</regionGroup>
+	
+	<regionGroup grCode="100" grName="공항청(인천)">
+		<station stnCode="47113" stnName="인천공항"/> 
+		<station stnCode="47110" stnName="김포공항"/> 
+		<station stnCode="47182" stnName="제주공항"/> 
+		<station stnCode="47163" stnName="무안공항"/> 
+		<station stnCode="47151" stnName="울산공항"/> 
+		<station stnCode="47153" stnName="김해공항"/> 
+		<station stnCode="47092" stnName="양양공항"/> 
+		<!-- 대구랑 스테이션구분코드 동일함! 최연구관님 확인 필요. 변경
+			<station stnCode="47142" stnName="대구공항"/>   
+		-->
+		<station stnCode="47167" stnName="여수공항"/> 
+	</regionGroup>
+	
+	<regionGroup grCode="9903" grName="평창올림픽" >
+		<station stnCode="2577" stnName="알펜시아-크로스컨트리-출발"/> 
+		<station stnCode="2560" stnName="용평-알파인대회전-출발"/> 
+		<station stnCode="2580" stnName="보광-크로스-출발"/> 
+		<station stnCode="2584" stnName="정선-알파인활강-출발"/> 
+	</regionGroup>
+	
+	
+</stationInfo>

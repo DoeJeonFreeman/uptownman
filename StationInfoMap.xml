@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<stationInfo>
+
+	<regionGroup grCode="0" grName="수도권청(서울)">
+		<station stnCode="47108" stnName="서울"/> 
+		<station stnCode="400" stnName="강남"/> 
+		<station stnCode="541" stnName="남양주"/> 
+		<station stnCode="572" stnName="성남"/> 
+		<station stnCode="590" stnName="과천"/>
+	</regionGroup>
+	
+	<regionGroup grCode="1" grName="부산청(부산)">
+		<station stnCode="47159" stnName="부산"/> 
+		<station stnCode="47253" stnName="김해시"/> 
+		<station stnCode="908" stnName="진해"/> 
+		<station stnCode="923" stnName="기장"/> 
+		<station stnCode="940" stnName="동래구"/>
+	</regionGroup>
+	
+	<regionGroup grCode="2" grName="부산청(울산)">
+		<station stnCode="47152" stnName="울산"/> 
+		<station stnCode="47288" stnName="밀양"/> 
+		<station stnCode="900" stnName="두서"/> 
+		<station stnCode="901" stnName="울기"/> 
+		<station stnCode="47257" stnName="양산시"/>
+	</regionGroup>
+	
+	<regionGroup grCode="3" grName="부산청(통영)">
+		<station stnCode="47162" stnName="통영"/>
+		<station stnCode="47294" stnName="거제"/> 
+		<station stnCode="47295" stnName="남해"/> 
+		<station stnCode="909" stnName="서이말"/> 
+		<station stnCode="918" stnName="고성"/>
+	</regionGroup>
+	
+	<regionGroup grCode="4" grName="부산청(창원)">
+		<station stnCode="47155" stnName="창원"/> 
+		<station stnCode="47255" stnName="북창원"/>
+		<station stnCode="919" stnName="창녕"/>
+		<station stnCode="920" stnName="함안"/>
+		<station stnCode="47263" stnName="의령군"/>
+	</regionGroup>
+	
+	<regionGroup grCode="5" grName="부산청(진주)">
+		<station stnCode="47192" stnName="진주"/> 
+		<station stnCode="47289" stnName="산청"/> 
+		<station stnCode="907" stnName="삼천포"/> 
+		<station stnCode="917" stnName="사천"/> 
+		<station stnCode="932" stnName="하동"/>
+	</regionGroup>
+	
+	<regionGroup grCode="6" grName="부산청(대구)">
+		<station stnCode="47143" stnName="대구"/> 
+		<station stnCode="812" stnName="고령"/> 
+		<station stnCode="813" stnName="청도"/> 
+		<station stnCode="827" stnName="경산"/> 
+		<station stnCode="828" stnName="달성"/>
+		<station stnCode="826" stnName="신령"/>
+		<station stnCode="853" stnName="팔공산"/>
+	</regionGroup>
+	
+	<regionGroup grCode="7" grName="부산청(울진)">
+		<station stnCode="47130" stnName="울진"/> 
+		<station stnCode="47271" stnName="봉화"/> 
+		<station stnCode="47277" stnName="영덕"/> 
+		<station stnCode="801" stnName="영양"/> 
+		<station stnCode="844" stnName="영덕읍"/>
+		<station stnCode="835" stnName="봉화읍"/>
+		<station stnCode="817" stnName="수비"/>
+	</regionGroup>
+	
+	<regionGroup grCode="8" grName="부산청(안동)">
+		<station stnCode="47136" stnName="안동"/> 
+		<station stnCode="47278" stnName="의성"/> 
+		<station stnCode="47276" stnName="청송군"/> 
+		<station stnCode="832" stnName="안계"/> 
+		<station stnCode="836" stnName="현서"/>
+	</regionGroup>
+	
+	<regionGroup grCode="9" grName="부산청(상주)">
+		<station stnCode="47137" stnName="상주"/> 
+		<station stnCode="47272" stnName="영주"/> 
+		<station stnCode="47273" stnName="문경"/> 
+		<station stnCode="815" stnName="예천"/> 
+		<station stnCode="834" stnName="화서"/>
+	</regionGroup>
+	
+	<regionGroup grCode="10" grName="부산청(포항)">
+		<station stnCode="47138" stnName="포항"/> 
+		<station stnCode="47281" stnName="영천"/> 
+		<station stnCode="804" stnName="청하"/> 
+		<station stnCode="47283" stnName="경주시"/> 
+		<station stnCode="850" stnName="감포"/>
+		<station stnCode="830" stnName="기계"/>
+	</regionGroup>
+	
+	<regionGroup grCode="11" grName="부산청(구미)">
+		<station stnCode="47279" stnName="구미"/> 
+		<station stnCode="810" stnName="성주"/> 
+		<station stnCode="822" stnName="김천"/> 
+		<station stnCode="823" stnName="군위"/> 
+		<station stnCode="825" stnName="칠곡"/>
+	</regionGroup>
+
+	<regionGroup grCode="12" grName="부산청(거창)">
+		<station stnCode="47284" stnName="거창"/> 
+		<station stnCode="47285" stnName="합천"/> 
+		<station stnCode="47264" stnName="함양군"/> 
+		<station stnCode="915" stnName="삼가"/> 
+		<station stnCode="946" stnName="북상"/>
+	</regionGroup>
+
+	<regionGroup grCode="13" grName="광주청(광주)">
+		<station stnCode="47156" stnName="광주"/> 
+		<station stnCode="706" stnName="담양"/> 
+		<station stnCode="710" stnName="나주"/> 
+		<station stnCode="711" stnName="이양"/> 
+		<station stnCode="741" stnName="화순"/>
+	</regionGroup>
+	
+	<regionGroup grCode="14" grName="광주청(목포)">
+		<station stnCode="47165" stnName="목포"/> 
+		<station stnCode="47169" stnName="흑산도"/> 
+		<station stnCode="699" stnName="무안"/> 
+		<station stnCode="731" stnName="영암"/> 
+		<station stnCode="789" stnName="압해도"/>
+		<station stnCode="771" stnName="안좌"/>
+	</regionGroup>
+	
+	<regionGroup grCode="15" grName="광주청(여수)">
+		<station stnCode="47168" stnName="여수"/> 
+		<station stnCode="47262" stnName="고흥"/> 
+		<station stnCode="732" stnName="보성"/> 
+		<station stnCode="748" stnName="벌교"/> 
+		<station stnCode="767" stnName="영남"/>
+		<station stnCode="790" stnName="나로도"/>
+	</regionGroup>
+	
+	<regionGroup grCode="16" grName="광주청(완도)">
+		<station stnCode="47170" stnName="완도"/> 
+		<station stnCode="47260" stnName="장흥"/> 
+		<station stnCode="47261" stnName="해남"/> 
+		<station stnCode="47268" stnName="진도군"/> 
+		<station stnCode="47259" stnName="강진군"/>
+	</regionGroup>
+	
+	<regionGroup grCode="17" grName="광주청(순천)">
+		<station stnCode="47174" stnName="순천"/> 
+		<station stnCode="709" stnName="구례"/> 
+		<station stnCode="712" stnName="순천시"/> 
+		<station stnCode="47266" stnName="광양시"/> 
+		<station stnCode="768" stnName="곡성"/>
+	</regionGroup>
+	
+	<regionGroup grCode="18" grName="광주청(전주)">
+		<station stnCode="47146" stnName="전주"/> 
+		<station stnCode="701" stnName="무주"/> 
+		<station stnCode="703" stnName="진안"/> 
+		<station stnCode="734" stnName="완주"/> 
+		<station stnCode="757" stnName="주천"/>
+	</regionGroup>
+	
+	<regionGroup grCode="19" grName="광주청(군산)">
+		<station stnCode="47140" stnName="군산"/> 
+		<station stnCode="702" stnName="익산"/> 
+		<station stnCode="733" stnName="함라"/> 
+		<station stnCode="736" stnName="진봉"/> 
+		<station stnCode="737" stnName="김제"/>
+	</regionGroup>
+	
+	<regionGroup grCode="20" grName="광주청(정읍)">
+		<station stnCode="47245" stnName="정읍"/> 
+		<station stnCode="47243" stnName="부안"/> 
+		<station stnCode="704" stnName="변산"/> 
+		<station stnCode="730" stnName="장성"/> 
+		<station stnCode="738" stnName="줄포"/>
+	</regionGroup>
+	
+	<regionGroup grCode="21" grName="광주청(남원)">
+		<station stnCode="47247" stnName="남원"/> 
+		<station stnCode="47244" stnName="임실"/> 
+		<station stnCode="47248" stnName="장수"/> 
+		<station stnCode="47254" stnName="순창군"/> 
+		<station stnCode="762" stnName="강진면"/>
+	</regionGroup>
+	
+	<regionGroup grCode="22" grName="광주청(고창)">
+		<station stnCode="47172" stnName="고창"/> 
+		<station stnCode="47252" stnName="영광"/> 
+		<station stnCode="754" stnName="함평"/> 
+		<station stnCode="769" stnName="염산"/> 
+		<station stnCode="775" stnName="월야"/>
+	</regionGroup>
+	
+	<regionGroup grCode="23" grName="대전청(대전)">
+		<station stnCode="47133" stnName="대전"/> 
+		<station stnCode="611" stnName="연기"/> 				
+		<station stnCode="612" stnName="공주"/> 
+		<station stnCode="615" stnName="논산"/> 
+		<station stnCode="636" stnName="계룡"/> 
+		<station stnCode="642" stnName="문화"/>
+		<station stnCode="887" stnName="세종시"/> 
+	</regionGroup>
+	
+	<regionGroup grCode="24" grName="수도권청(인천)">
+		<station stnCode="47112" stnName="인천"/> 
+		<station stnCode="47201" stnName="강화"/> 
+		<station stnCode="433" stnName="부천"/> 
+		<station stnCode="528" stnName="백령면"/> 
+		<station stnCode="565" stnName="시흥"/>
+	</regionGroup>
+	
+	<regionGroup grCode="25" grName="수도권청(동두천)">
+		<station stnCode="47098" stnName="동두천"/> 
+		<station stnCode="504" stnName="포천"/> 
+		<station stnCode="531" stnName="가평"/> 
+		<station stnCode="542" stnName="청평"/> 
+		<station stnCode="652" stnName="청산"/>
+	</regionGroup>
+	
+	<regionGroup grCode="26" grName="수도권청(파주)">
+		<station stnCode="47099" stnName="파주"/> 
+		<station stnCode="441" stnName="김포"/> 
+		<station stnCode="532" stnName="의정부"/> 
+		<station stnCode="540" stnName="고양"/> 
+		<station stnCode="598" stnName="양주"/>
+	</regionGroup>
+	
+	<regionGroup grCode="27" grName="수도권청(수원)">
+		<station stnCode="47119" stnName="수원"/> 
+		<station stnCode="516" stnName="안성"/> 
+		<station stnCode="549" stnName="용인"/> 
+		<station stnCode="551" stnName="평택"/> 
+		<station stnCode="571" stnName="화성"/>
+	</regionGroup>
+	
+	<regionGroup grCode="28" grName="수도권청(이천)">
+		<station stnCode="47203" stnName="이천"/> 
+		<station stnCode="47202" stnName="양평"/> 
+		<station stnCode="534" stnName="장호원"/> 
+		<station stnCode="546" stnName="광주읍"/> 
+		<station stnCode="548" stnName="여주"/>
+	</regionGroup>
+	
+	<regionGroup grCode="29" grName="대전청(서산)">
+		<station stnCode="47129" stnName="서산"/> 
+		<station stnCode="606" stnName="대산"/> 
+		<station stnCode="610" stnName="홍성"/> 
+		<station stnCode="616" stnName="당진"/> 
+		<station stnCode="627" stnName="태안"/>
+		<station stnCode="47177" stnName="홍성(예)"/>
+		<station stnCode="608" stnName="홍북"/>
+	</regionGroup>
+	
+	<regionGroup grCode="30" grName="대전청(천안)">
+		<station stnCode="47232" stnName="천안"/> 
+		<station stnCode="47233" stnName="동천안"/> 
+		<station stnCode="617" stnName="성거"/> 
+		<station stnCode="628" stnName="예산"/> 
+		<station stnCode="634" stnName="아산"/>
+	</regionGroup>
+	
+	<regionGroup grCode="31" grName="대전청(보령)">
+		<station stnCode="47235" stnName="보령"/> 
+		<station stnCode="47236" stnName="부여"/> 
+		<station stnCode="614" stnName="서천"/> 
+		<station stnCode="618" stnName="청양"/>
+		<station stnCode="635" stnName="양화"/>
+	</regionGroup>
+	
+	<regionGroup grCode="32" grName="대전청(청주)">
+		<station stnCode="47131" stnName="청주"/> 
+		<station stnCode="602" stnName="진천"/> 
+		<station stnCode="603" stnName="괴산"/> 
+		<station stnCode="623" stnName="증평"/> 
+		<station stnCode="624" stnName="상당"/>
+	</regionGroup>
+	
+	<regionGroup grCode="33" grName="대전청(충주)">
+		<station stnCode="47127" stnName="충주"/> 
+		<station stnCode="47221" stnName="제천"/> 
+		<station stnCode="601" stnName="단양"/> 
+		<station stnCode="619" stnName="음성"/> 
+		<station stnCode="630" stnName="노은"/>
+	</regionGroup>
+	
+	<regionGroup grCode="34" grName="대전청(추풍령)">
+		<station stnCode="47135" stnName="추풍령"/> 
+		<station stnCode="47226" stnName="보은"/> 
+		<station stnCode="47238" stnName="금산"/> 
+		<station stnCode="604" stnName="옥천"/> 
+		<station stnCode="605" stnName="영동"/>
+	</regionGroup>
+	
+	<regionGroup grCode="35" grName="강원청(북강릉)">
+		<station stnCode="47104" stnName="북강릉"/> 
+		<station stnCode="47105" stnName="강릉"/> 
+		<station stnCode="523" stnName="주문진"/> 
+		<station stnCode="566" stnName="연곡"/> 
+		<station stnCode="580" stnName="옥계"/>
+		<station stnCode="498" stnName="구룡령"/>
+		<station stnCode="497" stnName="삽당령"/>
+		<station stnCode="560" stnName="진부"/>
+	</regionGroup>
+	
+	<regionGroup grCode="36" grName="강원청(속초)">
+		<station stnCode="47090" stnName="속초"/> 
+		<station stnCode="517" stnName="간성"/> 
+		<station stnCode="661" stnName="현내"/> 
+		<station stnCode="670" stnName="양양"/> 
+		<station stnCode="671" stnName="청호"/>
+		<station stnCode="595" stnName="진부령"/>
+		<station stnCode="875" stnName="설악산"/>
+		<station stnCode="593" stnName="양양영덕"/>
+		<station stnCode="594" stnName="서화"/>
+	</regionGroup>
+	
+	<regionGroup grCode="37" grName="강원청(동해)">
+		<station stnCode="47106" stnName="동해"/> 
+		<station stnCode="47216" stnName="태백"/> 
+		<station stnCode="529" stnName="원덕"/> 
+		<station stnCode="579" stnName="하장"/> 
+		<station stnCode="876" stnName="삼척"/>
+		<station stnCode="878" stnName="도계"/>
+	</regionGroup>
+
+	<regionGroup grCode="38" grName="부산청(울릉도)">
+		<station stnCode="47115" stnName="울릉도"/> 
+		<station stnCode="319" stnName="천부"/> 
+		<station stnCode="530" stnName="태하"/> 
+		<station stnCode="96" stnName="독도"/> 
+	</regionGroup>
+	
+	<regionGroup grCode="39" grName="강원청(철원)">
+		<station stnCode="47095" stnName="철원"/> 
+		<station stnCode="519" stnName="사내"/> 
+		<station stnCode="552" stnName="김화"/> 
+		<station stnCode="555" stnName="화천"/> 
+		<station stnCode="556" stnName="양구"/>
+		<station stnCode="695" stnName="광덕산"/>
+		<station stnCode="651" stnName="외촌"/>
+		<station stnCode="322" stnName="상서"/>
+	</regionGroup>
+	
+	<regionGroup grCode="40" grName="강원청(대관령)">
+		<station stnCode="47100" stnName="대관령"/> 
+		<station stnCode="525" stnName="봉평"/> 
+		<station stnCode="526" stnName="평창"/> 
+		<station stnCode="557" stnName="기린"/> 
+		<station stnCode="559" stnName="내면"/>
+		<station stnCode="318" stnName="용평"/>
+		<station stnCode="660" stnName="면온[휘닉스파크]"/>
+		<station stnCode="879" stnName="스키점프[알펜시아]"/>
+	</regionGroup>
+	
+	<regionGroup grCode="41" grName="강원청(춘천)">
+		<station stnCode="47101" stnName="춘천"/> 
+		<station stnCode="47211" stnName="인제"/> 
+		<station stnCode="47212" stnName="홍천"/> 
+		<station stnCode="586" stnName="북산"/> 
+		<station stnCode="588" stnName="남산" />
+		<station stnCode="587" stnName="방산"/>
+		<station stnCode="535" stnName="서석"/>
+		<station stnCode="522" stnName="화촌"/>
+	</regionGroup>
+	
+	<regionGroup grCode="42" grName="강원청(원주)">
+		<station stnCode="47114" stnName="원주"/> 
+		<station stnCode="536" stnName="횡성"/> 
+		<station stnCode="561" stnName="청일"/> 
+		<station stnCode="583" stnName="안흥"/> 
+		<station stnCode="877" stnName="문막"/>
+	</regionGroup>
+	
+	<regionGroup grCode="43" grName="강원청(영월)">
+		<station stnCode="47121" stnName="영월"/> 
+		<station stnCode="47217" stnName="정선군"/> 
+		<station stnCode="527" stnName="정선"/> 
+		<station stnCode="562" stnName="주천"/> 
+		<station stnCode="563" stnName="남면"/> 
+		<station stnCode="581" stnName="상동"/>
+	</regionGroup>
+	
+	<regionGroup grCode="44" grName="제주청(제주)">
+		<station stnCode="47184" stnName="제주"/> 
+		<station stnCode="47185" stnName="고산"/> 
+		<station stnCode="727" stnName="유수암"/> 
+		<station stnCode="751" stnName="선흘"/> 
+		<station stnCode="779" stnName="한림"/>
+		<station stnCode="781" stnName="구좌"/> 
+		<station stnCode="724" stnName="추자도"/>
+		<station stnCode="782" stnName="성판악"/> 
+		<station stnCode="871" stnName="윗세오름"/>
+	</regionGroup>
+	
+	<regionGroup grCode="45" grName="제주청(서귀포)">
+		<station stnCode="47189" stnName="서귀포"/> 
+		<station stnCode="47188" stnName="성산"/> 
+		<station stnCode="47299" stnName="이어도"/> 
+		<station stnCode="328" stnName="중문"/> 
+		<station stnCode="752" stnName="서광"/>
+		<station stnCode="780" stnName="남원"/>
+	</regionGroup>
+	
+	<regionGroup grCode="46" grName="북한(평양)">
+		<station stnCode="47058" stnName="평양"/> 
+		<station stnCode="47014" stnName="중강"/> 
+		<station stnCode="47070" stnName="개성"/> 
+		<station stnCode="47069" stnName="해주"/> 
+		<station stnCode="47008" stnName="청진"/>
+		<station stnCode="47041" stnName="함흥"/>
+	</regionGroup>
+	
+	<regionGroup grCode="47" grName="북한(선봉)">
+		<station stnCode="47003" stnName="선봉"/> 
+		<station stnCode="47005" stnName="삼지연"/> 
+		<station stnCode="47016" stnName="혜산"/> 
+		<station stnCode="47020" stnName="강계"/> 
+		<station stnCode="47022" stnName="풍산"/> 
+		<station stnCode="47025" stnName="김책"/>
+	</regionGroup>
+	
+	<regionGroup grCode="48" grName="북한(수풍)">
+		<station stnCode="47028" stnName="수풍"/> 
+		<station stnCode="47031" stnName="장진"/> 
+		<station stnCode="47035" stnName="신의주"/> 
+		<station stnCode="47037" stnName="구성"/> 
+		<station stnCode="47039" stnName="희천"/> 
+		<station stnCode="47046" stnName="신포"/>
+	</regionGroup>
+	
+	<regionGroup grCode="49" grName="북한(안주)">
+		<station stnCode="47050" stnName="안주"/> 
+		<station stnCode="47052" stnName="양덕"/> 
+		<station stnCode="47055" stnName="원산"/> 
+		<station stnCode="47060" stnName="남포"/> 
+		<station stnCode="47065" stnName="사리원"/> 
+		<station stnCode="47061" stnName="장전"/>
+	</regionGroup>
+	
+	<regionGroup grCode="50" grName="북한(신계)">
+		<station stnCode="47067" stnName="신계"/> 
+		<station stnCode="47068" stnName="용연"/> 
+		<station stnCode="47075" stnName="평강"/> 
+	</regionGroup>	
+	
+</stationInfo>

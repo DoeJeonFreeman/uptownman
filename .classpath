@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="S:/arcticSeaIce2016_luna/UPTOWN_XMLOutputter2016/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="S:/arcticSeaIce2016_luna/UPTOWN_XMLOutputter2016/jdom.jar"/>
+	<classpathentry kind="lib" path="S:/arcticSeaIce2016_luna/UPTOWN_XMLOutputter2016/jdom2.jar"/>
+	<classpathentry kind="lib" path="S:/arcticSeaIce2016_luna/UPTOWN_XMLOutputter2016/resolver.jar"/>
+	<classpathentry kind="lib" path="S:/arcticSeaIce2016_luna/UPTOWN_XMLOutputter2016/serializer.jar"/>
+	<classpathentry kind="lib" path="S:/arcticSeaIce2016_luna/UPTOWN_XMLOutputter2016/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="S:/arcticSeaIce2016_luna/UPTOWN_XMLOutputter2016/xercesSamples.jar"/>
+	<classpathentry kind="lib" path="S:/arcticSeaIce2016_luna/UPTOWN_XMLOutputter2016/xml-apis.jar"/>
+	<classpathentry kind="lib" path="S:/arcticSeaIce2016_luna/UPTOWN_XMLOutputter2016/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

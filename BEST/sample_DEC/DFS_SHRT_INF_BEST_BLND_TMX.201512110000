@@ -1,0 +1,22 @@
+ guid. No. :   15
+ work date : 2015-12-11-18:00
+ wght file : /op/DFSM/SHRT_BEST/BLND/DABA/tmx/dfs_medm_stn_blndW_tmx_12s_00utc.201301-201412
+---------------------------------------------------------------------------------------------
+ read  BiasC  int(h) weight  Guidance
+    1      0      0   0.619  DFS_MEDM_STN_EPSG_PMOS_TMX_MEDN
+    1      0      0   1.258  DFS_MEDM_STN_ECMW_PMOS_TMX
+    1      1      0   0.622  DFS_MEDM_STN_EPSG_PMOS_TMX_MEDN
+    1      1      0   0.837  DFS_MEDM_STN_ECMW_PMOS_TMX
+    1      1    -12   0.757  DFS_MEDM_STN_ECMW_PMOS_TMX
+    1      1      0   0.000  DFS_MEDM_STN_ECMW_NPPM_TMX
+    1      1    -12   0.000  DFS_MEDM_STN_ECMW_NPPM_TMX
+    1      1    -12   0.000  DFS_MEDM_STN_EPSG_PMOS_TMX_MEDN
+    1      1    -12   0.000  DFS_MEDM_STN_GDPS_PMOS_TMX
+    1      1    -12   0.000  DFS_MEDM_STN_GDPS_NPPM_TMX
+    1      0      0   0.000  DFS_MEDM_STN_ECMW_NPPM_TMX
+    1      1      0   0.000  DFS_MEDM_STN_GDPS_NPPM_TMX
+    1      1      0   0.000  DFS_MEDM_STN_GDPS_PMOS_TMX
+    1      0      0   0.000  DFS_MEDM_STN_GDPS_NPPM_TMX
+    1      0      0   0.000  DFS_MEDM_STN_GDPS_PMOS_TMX
+---------------------------------------------------------------------------------------------
+work modl : RDPS+GDPS+EPSG

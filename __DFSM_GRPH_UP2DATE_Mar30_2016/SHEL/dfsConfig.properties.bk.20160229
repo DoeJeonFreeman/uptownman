@@ -1,0 +1,6 @@
+outputFolder_test=/op/DFSM_GRPH/EXEC/XML/
+outputFolder=/op/www/html/XML/
+outputFolder_newTown=/op/www/html/newTown/XML
+stationInfoDocs=/op/DFSM_GRPH/EXEC/StationInfoMap.xml
+stationMapper=/op/DFSM_GRPH/EXEC/Stations_MEDM.xml
+MOUNTAIN_stationReferer=/op/DFSM_GRPH/EXEC/Stations_mountain.xml
