@@ -340,11 +340,13 @@ public class RawData_ToXML {
 		return basedOn;
 	}
 
-
+	
 	public static void main(String[] args) throws Exception {
 		for(String rawFileName: args){
 			new RawData_ToXML(rawFileName);
 		}
+		
+		// ECM/SHRT/DFS_SHRT_STN_ECMW_NPPM_PTY.201305011200  --> SHRT.ECMWF_MOS.PTY 201305011200
 
 //		new RawData_ToXML("ECM/SHRT/DFS_SHRT_STN_ECMW_NPPM_PTY.201305011200");
 //		new RawData_ToXML("ECM/SHRT/DFS_SHRT_STN_ECMW_NPPM_SKY.201305011200");

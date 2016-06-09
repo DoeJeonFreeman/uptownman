@@ -2,7 +2,6 @@
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
@@ -110,9 +109,9 @@ public class RawData_ToXML {
 	private void initXML(String fileName){ 
 		kindOfModel = whatKindOfModel(fileName);//+ isMEDM
 
-		String method_n_element = getMethod(fileName);
+		String varAbbreviation = getVariableName(fileName);
 
-		root = new Element(method_n_element); 
+		root = new Element(varAbbreviation); 
 		xmlDoc = new Document();
 		xmlDoc.setRootElement(root);
 
@@ -287,14 +286,14 @@ public class RawData_ToXML {
 			model = "GDPS";
 		}else if(fileName.indexOf("STN_ECMW_NPPM") != -1){
 			model = "ECMWF";
-		}else if(fileName.indexOf("BEST_MERG") != -1){
-			model = "BEST";
+		}else if(fileName.indexOf("KOPP_RDPS_5KM") != -1){
+			model = "KOPP";
 		}	
 		return model;
 	}
 
 
-	public String getMethod(String fileName){
+	public String getVariableName(String fileName){
 		int endIdx = fileName.lastIndexOf(".");
 		return fileName.substring(endIdx-3, endIdx); 
 	}
@@ -334,18 +333,20 @@ public class RawData_ToXML {
 			basedOn = "GDAPS(UM N512 L70)";
 		}else if(model.equals("ECMWF")){
 			basedOn = "PPM/ECMWF";
-		}else if(model.equals("BEST")){
-			basedOn = "BEST(UM 12km L70)";
+		}else if(model.equals("KOPP")){
+			basedOn = "KOPP";
 		}	
 		return basedOn;
 	}
 
-
+	
 	public static void main(String[] args) throws Exception {
-		for(String rawFileName: args){
+		/*for(String rawFileName: args){
 			new RawData_ToXML(rawFileName);
-		}
-
+		}*/
+		
+		// ECM/SHRT/DFS_SHRT_STN_ECMW_NPPM_PTY.201305011200  --> SHRT.ECMWF_MOS.PTY 201305011200
+		new RawData_ToXML("SSPS/DFS_SHRT_STN_SSPS_REH.201408110000");
 //		new RawData_ToXML("ECM/SHRT/DFS_SHRT_STN_ECMW_NPPM_PTY.201305011200");
 //		new RawData_ToXML("ECM/SHRT/DFS_SHRT_STN_ECMW_NPPM_SKY.201305011200");
 //		new RawData_ToXML("ECM/SHRT/DFS_SHRT_STN_ECMW_NPPM_REH.201305011200");
